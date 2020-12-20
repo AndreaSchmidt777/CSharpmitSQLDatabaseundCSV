@@ -75,7 +75,7 @@
             this.btnspeichern.Name = "btnspeichern";
             this.btnspeichern.Size = new System.Drawing.Size(248, 70);
             this.btnspeichern.TabIndex = 3;
-            this.btnspeichern.Text = "Datei speichern";
+            this.btnspeichern.Text = "Datei speichern +";
             this.btnspeichern.UseVisualStyleBackColor = true;
             this.btnspeichern.Click += new System.EventHandler(this.btnspeichern_Click);
             // 
